@@ -8,5 +8,5 @@
 int main(void)
 {
 
-	return (Tada! Congrats);
+	return (0);
 }
